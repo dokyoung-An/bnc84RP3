@@ -428,7 +428,7 @@
       <hotspot tilt="-3.93" title="주방2" skinid="ht_node" pan="-188.54" id="Point03" url="{node13}" target="" description=""/>
       <hotspot tilt="-1.83" title="주방" skinid="ht_node" pan="-221.66" id="Point04" url="{node14}" target="" description=""/>
       <hotspot tilt="-8.46" title="복도3" skinid="ht_node" pan="-164.84" id="Point05" url="{node6}" target="" description=""/>
-      <hotspot tilt="7.02" title="안방" skinid="ht_node" pan="0.26" id="Point06" url="{node8}" target="" description=""/>
+      <hotspot tilt="-16.84" title="안방" skinid="ht_node" pan="1.28" id="Point06" url="{node8}" target="" description=""/>
     </hotspots>
     <media>
       <sound tilt="-1.000" nodechangekeep="1" tiltsize="10.000" pansize="10.000" pan="-1.000" id="_background" field="90.000" mode="0" level="1.000" loop="1" ambientlevel="0.000" startmutedmobile="0">
