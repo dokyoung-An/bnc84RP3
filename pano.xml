@@ -525,7 +525,7 @@
       <hotspot pan="-160.47" id="Point01" description="" tilt="-4.85" url="{node9}" target="" skinid="ht_node" title="침실1"/>
       <hotspot pan="-197.57" id="Point02" description="" tilt="-9.85" url="{node8}" target="" skinid="ht_node" title="침실1"/>
       <hotspot pan="-210.54" id="Point03" description="" tilt="0.61" url="{node7}" target="" skinid="ht_node" title="복도"/>
-      <hotspot pan="-323.73" id="Point04" description="" tilt="-12.63" url="{node12}" target="" skinid="ht_node" title="욕실2"/>
+      <hotspot pan="-332.03" id="Point04" description="" tilt="-10.43" url="{node12}" target="" skinid="ht_node" title="욕실2"/>
       <hotspot pan="-40.64" id="Point05" description="" tilt="-11.48" url="{node3}" target="" skinid="ht_node" title="드레스룸"/>
     </hotspots>
     <media>
